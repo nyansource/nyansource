@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm 0x9</h1>
-<h3 align="center">A passionate frontend developer from Japan</h3>
+<h3 align="center">A passionate reverse engineer , automation developer from Japan interested in learning AI </h3>
 
 - 📫 How to reach me **nyansourcesigma@gmail.com**
+
+  
 
 
 
